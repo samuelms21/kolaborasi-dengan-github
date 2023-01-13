@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    background-color: antiquewhite;
+}
+
+.left-side{
+    background-color: aqua;
+}
+
+.right-side{
+    background-color: blue;
+}
+
+.dosen-img>img {
+    max-width: 100px;
+    height: 10px;
+}
